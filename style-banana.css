@@ -1,0 +1,6 @@
+textarea{
+    margin: 2rem;
+    padding: 1rem;
+    display: block;
+    max-width: 80%;
+}
